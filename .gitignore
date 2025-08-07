@@ -1,0 +1,9 @@
+.env
+.venv
+
+__pycache__
+
+
+/docs
+/db_vetorial
+/teste_doc
