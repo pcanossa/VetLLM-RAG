@@ -164,11 +164,13 @@ Este é um projeto em desenvolvimento ativo. Contribuições são bem-vindas:
 
 ## Licença
 
-[Especificar licença apropriada]
+O projeto está sob licensa [MIT](./LICENSE).
 
 ## Contato
 
-[Informações de contato do desenvolvedor/equipe]
+* **Patrícia Canossa**
+  * [Github:](https://github.com/pcanossa)
+  * [LinkedIn:](https://www.linkedin.com/in/patricia-canossa-gagliardi/) 
 
 ## Aviso Legal
 
