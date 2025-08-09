@@ -2,6 +2,15 @@
 
 🚧 **Este projeto está em fase de produção e testes** 🚧
 
+[![Status](https://img.shields.io/badge/status-MVP%20Beta-yellow)](https://diagvet-lab.onrender.com/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1+-green.svg)](https://langchain.com/)
+[![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30+-orange.svg)](https://huggingface.co/transformers/)
+[![Chroma](https://img.shields.io/badge/Chroma-0.4+-purple.svg)](https://www.trychroma.com/)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Hub-yellow.svg)](https://huggingface.co/)
+
+
 ## Sobre o Projeto
 
 VetLLM é um assistente de inteligência artificial especializado em medicina veterinária, desenvolvido para auxiliar profissionais veterinários com informações técnicas precisas e baseadas em evidências científicas. O sistema utiliza tecnologias avançadas de recuperação de informações (RAG) combinadas com modelos de linguagem especializados.
