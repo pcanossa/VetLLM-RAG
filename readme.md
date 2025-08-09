@@ -188,5 +188,5 @@ O projeto está sob licensa [MIT](./LICENSE).
 ---
 
 **Status**: 🚧 Em Produção e Testes  
-**Última Atualização**: [Data]  
+**Última Atualização**: 08/08/2025
 **Versão**: 0.1.0-beta
