@@ -1,9 +1,16 @@
 .env
 .venv
 
+<<<<<<< HEAD
 /db_vetorial
+=======
+>>>>>>> 9761b11b579057d1235780a29368b3aa83e14a02
 __pycache__
 
 
 /docs
+<<<<<<< HEAD
+=======
+/db_vetorial
+>>>>>>> 9761b11b579057d1235780a29368b3aa83e14a02
 /teste_doc
