@@ -97,7 +97,7 @@ DIRETORIO_DB=caminho/para/base/dados/vetorial
 
 <<<<<<< HEAD
 1. Realize o Download do Banco de Dados vetorial pelo link dentro da pasta 
-[Download do Banco de Dados vetorial](https://drive.google.com/drive/folders/1mR8tGB_SQUPkgWSsdOL-GIQ158jUEkB9?usp=sharing)
+   * [Download do Banco de Dados vetorial](https://drive.google.com/drive/folders/1mR8tGB_SQUPkgWSsdOL-GIQ158jUEkB9?usp=sharing)
 
 ## Uso
 
